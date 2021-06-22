@@ -1,6 +1,6 @@
 package java16.records;
 
-public class java16Main {
+public class java16RecordDemo {
 
 	
 	public static void main(String[] args) {
