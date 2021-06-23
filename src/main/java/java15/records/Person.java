@@ -1,4 +1,4 @@
-package java16.records;
+package java15.records;
 
 public record Person(String name, int age) {
 	public Person {
